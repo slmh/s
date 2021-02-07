@@ -1282,7 +1282,7 @@ body {
 @media all and (max-width: 900px) {
   .footer {
     padding-bottom: 50px;
-    margin-bottom: 50px;
+/*     margin-bottom: 50px; */
     padding-top: 20px;
   }
   .footer .footer__block {
